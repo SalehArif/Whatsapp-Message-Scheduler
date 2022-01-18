@@ -84,4 +84,3 @@ class gui:
         tkinter.messagebox.showinfo("Disclaimer","Sign in your Whatsapp Web on your default browser before scheduling a message.")
 
 gui()
-# pywhatkit.sendwhatmsg('+923341272207','meep morp, I\'m a bot again.',21,50)
